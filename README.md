@@ -7,8 +7,8 @@ This project is designed to make a climate analysis on Honolulu, Hawaii, to help
 
  
 ## Table of Contents
-* [Climate Analysis and Exploration]
-   - [Precipitation Analysis]
-   - [Station Analysis]
-* [Climate App]
-   - [Routes Available]
+* Climate Analysis and Exploration
+   - Precipitation Analysis
+   - Station Analysis
+* Climate App
+   - Routes Available
